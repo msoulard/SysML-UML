@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="MINUTE_ECOULEE" version="4">
+  <OBJECT>
+    <ID name="MINUTE_ECOULEE" mc="Standard.Signal" uid="8fde04e0-8b5c-4835-834b-e6f6cd7154f8"/>
+    <PID name="Horloge" mc="Standard.Class" uid="fdf08c9c-2b6a-4c9c-8616-7203852650bd"/>
+    <ATTRIBUTES>
+      <ATT name="IsEvent">true</ATT>
+      <ATT name="IsException">false</ATT>
+      <ATT name="IsElementary">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[MINUTE_ECOULEE]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

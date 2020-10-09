@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Reveil" version="4">
+  <OBJECT>
+    <ID name="Reveil" mc="Standard.Package" uid="ab1a8c73-694e-45ac-aa79-cf4552b2e7de"/>
+    <PID name="horloge" mc="Standard.Project" uid="67511591-0f80-41c0-a028-cde6a10ecad5"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Reveil]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Horloge" mc="Standard.Class" uid="fdf08c9c-2b6a-4c9c-8616-7203852650bd"/>
+        <COMPID name="Clavier" mc="Standard.Class" uid="de547cc1-6858-4452-a741-0ceea435f3d7"/>
+        <COMPID name="Cadran" mc="Standard.Class" uid="1cc74e21-0e9f-4da4-85be-168f6e9d5e11"/>
+        <COMPID name="Effectuer les réglages" mc="Standard.UseCase" uid="55cc74ee-29c6-4f7b-8641-d35a665413bd"/>
+        <COMPID name="Assurer le fonctionnement" mc="Standard.UseCase" uid="8079bdba-8f15-4102-8e25-22646b4d7e94"/>
+        <COMPID name="Utilisateur" mc="Standard.Actor" uid="7eb620a8-e51d-4cc7-8378-c5da6a5faf7d"/>
+        <COMPID name="APPUI_TOUCHE" mc="Standard.Signal" uid="eb180935-33a2-4ea0-900a-c41622199217"/>
+        <COMPID name="struct termios" mc="Standard.DataType" uid="17864ecd-390b-469f-98e2-1104e545369b"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="Diagramme de classe horloge" mc="Standard.ClassDiagram" uid="e8eb0369-8c3d-46fd-a97d-9ac1d2a04fda"/>
+        <COMPID name="Diagramme de cas d'utilisation horloge" mc="Standard.UseCaseDiagram" uid="7b627818-132f-4790-ad8c-f6114c708bca"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

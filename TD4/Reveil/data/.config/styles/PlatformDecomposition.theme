@@ -1,0 +1,7 @@
+#
+#Tue Sep 29 10:42:44 CEST 2020
+INSTANCE_REPRES_MODE=IMAGE
+stylename=PlatformDecomposition
+basestyle=default
+theme=true
+INFOFLOWLINK_ITEMS_SHOWGROUP=true
